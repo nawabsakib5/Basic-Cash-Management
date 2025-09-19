@@ -18,7 +18,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+# Application definition sdflkjsflkj
 
 INSTALLED_APPS = [
     'django.contrib.admin',
